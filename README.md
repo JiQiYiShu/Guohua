@@ -67,9 +67,11 @@ Guohua: Traditional Chinese painting,  Landscape painting flower &amp; bird pain
 www.JiQiYiShu.com
 
 ### 10.下载  | Downloads Images from JiQiYiShu
-<a href=''>机器艺术-山水画 下载</a>
+各约100幅
 
-<a href=''>机器艺术-花鸟画下载</a> 
+<a href='https://storage.googleapis.com/jiqiyishu/datasets/JiQiYiShu-HuaNiao100.zip'>机器艺术-山水画 下载</a>
+
+<a href='https://storage.googleapis.com/jiqiyishu/datasets/JiQiYiShu-HuaNiao100.zip'>机器艺术-花鸟画下载</a> 
 
 
 ###  参考 Reference 
