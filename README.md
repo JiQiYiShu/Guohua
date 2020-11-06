@@ -20,22 +20,28 @@ Guohua: Traditional Chinese painting,  Landscape painting flower &amp; bird pain
 一期国画，已经覆盖国画中的重点题材：山水画、花鸟画。
 
 ### 5.效果图
-5.1 生成的山水画效果图(多图、单图)
-多图效果：
+##### 5.1 生成的山水画效果图(多图、单图)
+
+##### 多图效果：
+
 <img src="https://github.com/JiQiYiShu/Guohua/blob/main/resources/images/jqys-ss-duotu-001-watered1.jpg"  width="65%" height="65%" />
 
 
-单图：
+##### 单图：
+
 <img src="https://github.com/JiQiYiShu/Guohua/blob/main/resources/images/jqys-ss-73.jpg"  width="65%" height="65%" />
 
 <img src="https://github.com/JiQiYiShu/Guohua/blob/main/resources/images/jqys-ss-16.jpg"  width="65%" height="65%" />
 
 
-5.2 生成的花鸟画效果图(多图、单图)
-多图：
+##### 5.2 生成的花鸟画效果图(多图、单图)
+
+##### 多图：
+
 <img src="https://github.com/JiQiYiShu/Guohua/blob/main/resources/images/jqys-fb-duotu-0011.jpg"  width="65%" height="65%" />
 
-单图：
+##### 单图：
+
 <img src="https://github.com/JiQiYiShu/Guohua/blob/main/resources/images/jqys-fb-45.jpg"  width="65%" height="65%" />
 
 <img src="https://github.com/JiQiYiShu/Guohua/blob/main/resources/images/jqys-fb-56.jpg"  width="65%" height="65%" />
