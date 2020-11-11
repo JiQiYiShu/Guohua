@@ -75,7 +75,7 @@ www.JiQiYiShu.com
 
 
 ###  参考 Reference 
-1.模型，StyleGan2-ada：https://github.com/NVlabs/stylegan2
+1.模型，StyleGan2：https://github.com/NVlabs/stylegan2
 
 2.高清人脸数据集，Flickr-Faces-HQ Dataset (FFHQ), https://github.com/NVlabs/ffhq-dataset
 
